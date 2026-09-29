@@ -1,0 +1,5 @@
+# Python 3.10 or later
+scipy>=1.10
+scikit-learn>=1.2
+matplotlib>=3.6
+openpyxl>=3.1

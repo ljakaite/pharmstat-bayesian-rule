@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "Two-sided Bayesian go/kill rules for preclinical candidate confirmation"
+abstract: >-
+  Code and results reproducing the comparison of seven decision rules for
+  preclinical go/kill gates on three public datasets, including the proposed
+  exact-belief rule with one-step look-ahead stopping.
+authors:
+  - family-names: Jakaite
+    given-names: Livija
+    affiliation: LJ Analytics
+    email: livija.jakaite@lj-analytics.co.uk
+    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add before release
+license: "MIT"   # confirm before making the repository public
+repository-code: "https://github.com/<account>/<repo>"
+version: "1.0.0"
+date-released: "2026-09-29"
+keywords:
+  - go/no-go decisions
+  - sequential design
+  - optimal stopping
+  - value of information
+  - model uncertainty
+preferred-citation:
+  type: article
+  title: "A two-sided Bayesian go/kill rule for preclinical candidate confirmation: a calibrated failure risk at fewer assays"
+  authors:
+    - family-names: Jakaite
+      given-names: Livija
+  year: 2026
+  notes: "Manuscript submitted."
