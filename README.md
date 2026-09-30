@@ -16,8 +16,8 @@ No GPU, no cluster, no long run.
 ## Quick start
 
 ```bash
-git clone https://github.com/<account>/<repo>.git
-cd <repo>
+git clone https://github.com/ljakaite/pharmstat-bayesian-rule.git
+cd pharmstat-bayesian-rule
 pip install -r requirements.txt
 # add the three datasets first -- see "Data" below
 python3 build_honest_results.py       # all rules, 3 datasets, n=1000  -> campaigns_honest.csv   (~21 s)
@@ -89,6 +89,11 @@ code:
   campaigns. This is a pure speed optimisation — verified to leave every reported result byte
   identical — and it is the reason the full run takes seconds rather than twenty minutes.
 
+## Licence
+
+MIT — see `LICENSE`.
+
 ## Citation
 
-See `CITATION.cff`. Please cite the paper; if you use the archived snapshot, cite its DOI as well.
+See `CITATION.cff`. Please cite the paper; if you use the archived snapshot, cite its DOI as
+well: [doi:10.5281/zenodo.23048060](https://doi.org/10.5281/zenodo.23048060).

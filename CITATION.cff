@@ -10,9 +10,10 @@ authors:
     given-names: Livija
     affiliation: LJ Analytics
     email: livija.jakaite@lj-analytics.co.uk
-    # orcid: "https://orcid.org/0000-0000-0000-0000"   # add before release
-license: "MIT"   # confirm before making the repository public
-repository-code: "https://github.com/<account>/<repo>"
+    orcid: "https://orcid.org/0000-0002-4946-5920"
+license: "MIT"
+repository-code: "https://github.com/ljakaite/pharmstat-bayesian-rule"
+doi: "10.5281/zenodo.23048060"
 version: "1.0.0"
 date-released: "2026-09-29"
 keywords:
